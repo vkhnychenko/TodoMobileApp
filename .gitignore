@@ -8,6 +8,10 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+.vscode
+.expo-shared
+assets
+yarn.lock
 
 # macOS
 .DS_Store
