@@ -12,6 +12,7 @@ web-build/
 .expo-shared
 assets
 yarn.lock
+package-lock.json
 
 # macOS
 .DS_Store
